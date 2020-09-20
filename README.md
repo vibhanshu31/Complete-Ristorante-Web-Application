@@ -1,7 +1,9 @@
 # Ristorante ConFusion 1.0
 
-A web application built for a restaurant where customers can make their
-restaurant bookings and gather more information about the restaurant.
+This is the complete MERN Stack application. \
+
+To only fork the frontend of this application [go here](https://github.com/vibhanshu31/Confusion-Frontend). \
+To only fork the backend of this application [go here](https://github.com/vibhanshu31/Confusion-Backend).
 
 <br>
 
